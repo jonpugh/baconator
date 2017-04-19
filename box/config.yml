@@ -2,6 +2,8 @@
 vagrant_hostname: local.baconator.com
 vagrant_machine_name: baconator
 
+vagrant_memory: 1024
+
 # Set the IP address so it doesn't conflict with other Drupal VM instances.
 vagrant_ip: 192.168.25.8
 
